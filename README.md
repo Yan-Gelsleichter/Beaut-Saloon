@@ -10,7 +10,7 @@ JavaScript
 
 
 Bibliotecas:
-Google Fonts
+https://fonts.google.com/
 SwipeJS
 ScrollRevel
 
