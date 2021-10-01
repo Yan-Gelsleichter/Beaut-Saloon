@@ -5,18 +5,20 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML
+
 CSS
+
 JavaScript
 
 
 Bibliotecas:
-https://fonts.google.com/
-SwipeJS
+Google Fonts,
+SwipeJS,
 ScrollRevel
 
 
 Utilitários:
-randomuser.me
+randomuser.me,
 IconMoon
 
 💻 Projeto
