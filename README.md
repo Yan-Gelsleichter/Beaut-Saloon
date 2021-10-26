@@ -1,4 +1,17 @@
-# beault-saloon
+<h2 align="center">
+  Beault Saloon
+</h2>
+<h3 align="center">
+  Desenvolvido com Rocketseat em Next Level Week 6.0
+</h3>
+
+<p align="center">
+  <img alt="website" src="assets/fotos/page.PNG" width="80%">
+</p>
+<p align="center">
+  <img alt="website" src="assets/fotos/mobile.PNG" width="30%">
+</p>
+
 
 ## 🚀 Tecnologias
 
