@@ -1,5 +1,5 @@
 <h2 align="center">
-  Beault Saloon
+  Beaut Saloon
 </h2>
 <h3 align="center">
   Desenvolvido com Rocketseat em Next Level Week 6.0
