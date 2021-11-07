@@ -38,6 +38,6 @@ Utilitários:
 OriginSix é uma página responsiva no formato One Page, elaborada no Figma. Projeto desenvolvido com a Rocketseat, aulas com o professor  Mayk Brito.
 
 ## 🔖 Layout
-Você pode visualizar o layout do projeto através desse link https://yan-gelsleichter.github.io/beaultsaloon/
+Você pode visualizar o layout do projeto através desse link https://yan-gelsleichter.github.io/Beaut-Saloon/
 
 Feito com ♥ by Yan-Gelsleichter👋
